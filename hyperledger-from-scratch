@@ -1,0 +1,15 @@
+#	Hyperledger faric from scratch 
+## Original documentation: 
+
+- https://hyperledger-fabric.readthedocs.io/en/release-1.4/chaincode4ade.html
+
+## Follow the articles : 
+- https://medium.com/coinmonks/hyperledger-fabric-how-to-setup-application-from-scratch-using-nodejs-series-1-to-7fb5c56877c7
+- https://medium.com/coinmonks/hyperledger-fabric-how-to-setup-application-from-scratch-using-nodejs-series-part-2-binary-file-a715381ae1d6
+- https://medium.com/coinmonks/hyperledger-fabric-how-to-setup-application-from-scratch-using-nodejs-series-part-3-9d795f2d4a8
+
+## Step by step : 
+1. Build your first network based on above articles
+2. Developing the chaincode by Java 
+3. Publishing the digital certificate in Hypeledger and IPFD based on the topic : https://medium.com/coinmonks/digital-certificates-on-hyperledger-fabric-3d0ba1c36ecd
+4. Integration with RESTful service 
