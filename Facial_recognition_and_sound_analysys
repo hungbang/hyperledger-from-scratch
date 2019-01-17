@@ -1,0 +1,6 @@
+## Facial recognition and sound analysys
+
+- I suggest we should use Amazon Rekognition: https://aws.amazon.com/rekognition/getting-started/ for Facial Recognition and 
+Sound Analyze we will use https://aws.amazon.com/transcribe/
+- This is example to detect analyze compare faces rekognition : https://aws.amazon.com/getting-started/tutorials/detect-analyze-compare-faces-rekognition/
+- About Price : https://aws.amazon.com/rekognition/pricing/
